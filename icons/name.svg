@@ -1,0 +1,21 @@
+<svg viewBox="0 0 150 100" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#B7E576" fill-rule="evenodd" d="
+    M0 90
+    a10 10 0 0 0 10 10
+    H140
+    a10 10 0 0 0 10 -10
+    z
+    M0 40
+    V10
+    a10 10 0 0 1 10 -10
+    H140
+    a10 10 0 0 1 10 10
+    V40
+    z
+    M20 15
+    H130
+    v10
+    H20
+    z
+  "/>
+</svg>
